@@ -1,6 +1,6 @@
 # rust-fronted
 
-## tauri
+## [tauri](https://tauri.app)
 
 ### 1. Start a New Tauri Project[​](https://tauri.studio/docs/getting-started/beginning-tutorial#1-start-a-new-tauri-project "Direct link to heading")
 
